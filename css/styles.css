@@ -1,0 +1,25 @@
+.background_image{
+  height: 790px;
+  background-image: url('../images/backgrounds/hero.jpg');
+}
+.navigation{
+  height: 100px;
+  color: white;
+}
+.logo{
+  padding: 30px;
+}
+.background_links{
+  float: right;
+  padding: 20px;
+}
+section,ol,li{
+  float: left;
+  list-style-type: none;
+  padding: 10px;
+  padding-right: 30px;
+}
+section,ol,li,a{
+  color: white;
+  text-decoration: none;
+}

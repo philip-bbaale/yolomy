@@ -23,3 +23,8 @@ section,ol,li,a{
   color: white;
   text-decoration: none;
 }
+.d_flex{
+  height: auto;
+  text-align: center;
+  color: white;
+}

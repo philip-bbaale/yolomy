@@ -157,7 +157,28 @@ input[type=checkbox] {
   padding-left: 30px;
 }
 .contact_us{
-  height: 400px;
+  height: 350px;
   width: auto;
   background-color: #404040;
+}
+.contact_details{
+  margin: 15px;
+  //background-color: orange;
+}
+.contact_moto{
+  margin-top: 80px;
+  padding: 30px;
+}
+.contact_social{
+  color: white;
+  padding: 30px;
+}
+.contact_info{
+  color: white;
+  margin-top: 100px;
+  padding: 30px;
+}
+.contact_info_links{
+  padding: 0;
+  margin: 0;
 }

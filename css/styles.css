@@ -148,3 +148,10 @@ input[type=checkbox] {
   height: 80px;
   background-color: #808080;
 }
+.sales_text{
+  padding: 30px;
+  color: white;
+}
+.sales_text,span{
+  padding-left: 30px;
+}

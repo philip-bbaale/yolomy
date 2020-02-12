@@ -1,6 +1,9 @@
 .background_image{
   height: 790px;
   background-image: url('../images/backgrounds/hero.jpg');
+  /*background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;*/  
 }
 .navigation{
   height: 100px;

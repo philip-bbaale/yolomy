@@ -37,12 +37,12 @@ section,ol,li,a{
   background-color: #b8b894;
 }
 .product_sex{
-  margin: 40px;
+  margin: 30px;
   margin-left: 100px;
   color: black;
 }
 .form-check-label{
-  padding-left: 15px;
+  padding-left: 10px;
 }
 .product_sex_all{
   float: right;
@@ -53,7 +53,81 @@ section,ol,li,a{
   height: 50px;
   width: 250px;
   color: white;
-  background-color: maroon;
-  border-color: maroon;
+  background-color: #661a00;
+  border-color: #661a00;
   border-radius: 5px;
+}
+input[type=checkbox] {
+    zoom: 1.5;
+}
+.men_head{
+  float: left;
+  height: 50px;
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: yellow;
+  text-align: center;
+  text-anchor:initial;
+  line-height: 50px;
+}
+.women_head{
+  float: right;
+  height: 50px;
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: yellow;
+  text-align: center;
+  text-anchor:initial;
+  line-height: 50px;
+}
+.men_show{
+  height: 450px;
+  width: auto;
+  //background-color: yellowgreen;
+}
+.women_show{
+  height: 450px;
+  width: auto;
+  //background-color: yellowgreen;
+}
+.show_details{
+  width: auto;
+  height: 350px;
+  margin: 40px;
+  background-color: #f2f2f2;
+}
+.show_details_top{
+  height: 10%;
+  width: 100%;
+  //background-color: white;
+}
+.show_details_center{
+  height: 80%;
+  width: 100%;
+  //background-color: red;
+}
+.show_picture{
+  max-width:100%;
+  max-height:100%;
+  margin: auto;
+  display: block;
+}
+.show_details_bottom{
+  height: 10%;
+  width: 100%;
+  padding: 5px;
+  //background-color: pink;
+}
+.show_top{
+  color: black;
+}
+.show_name{
+  float: left;
+  color: brown;
+}
+.show_price{
+  float: right;
+  color: black;
 }

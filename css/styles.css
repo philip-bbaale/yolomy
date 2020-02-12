@@ -3,7 +3,7 @@
   background-image: url('../images/backgrounds/hero.jpg');
   /*background-repeat:no-repeat;
   background-size:contain;
-  background-position:center;*/  
+  background-position:center;*/
 }
 .navigation{
   height: 100px;
@@ -30,4 +30,30 @@ section,ol,li,a{
   height: auto;
   text-align: center;
   color: white;
+}
+.product_selection{
+  width: 100%;
+  height: 100px;
+  background-color: #b8b894;
+}
+.product_sex{
+  margin: 40px;
+  margin-left: 100px;
+  color: black;
+}
+.form-check-label{
+  padding-left: 15px;
+}
+.product_sex_all{
+  float: right;
+  margin: 20px;
+  margin-right: 20px;
+}
+.all_products{
+  height: 50px;
+  width: 250px;
+  color: white;
+  background-color: maroon;
+  border-color: maroon;
+  border-radius: 5px;
 }

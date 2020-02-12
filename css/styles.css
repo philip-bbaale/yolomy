@@ -143,3 +143,8 @@ input[type=checkbox] {
   border: 2px solid;
   border-color: #888844;
 }
+.sales{
+  width: auto;
+  height: 80px;
+  background-color: #808080;
+}

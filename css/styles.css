@@ -118,6 +118,7 @@ input[type=checkbox] {
   height: 10%;
   width: 100%;
   padding: 5px;
+  padding-left: 0;
   //background-color: pink;
 }
 .show_top{
@@ -154,4 +155,9 @@ input[type=checkbox] {
 }
 .sales_text,span{
   padding-left: 30px;
+}
+.contact_us{
+  height: 400px;
+  width: auto;
+  background-color: #404040;
 }

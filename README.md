@@ -7,7 +7,7 @@ Author: Namugera Bbaale Philip.
 
 Project Description: Desighn a given page using bootstrap.
 
-link to live site on GitHub Pages: 
+link to live site on GitHub Pages: https://scrupycoco.github.io/yolomy/
 
 Project setup instructions: 
 # Assignments

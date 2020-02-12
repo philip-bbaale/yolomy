@@ -131,3 +131,15 @@ input[type=checkbox] {
   float: right;
   color: black;
 }
+.about_us{
+  height: 400px;
+  width: 100%;
+  background-image: url('../images/backgrounds/about.jpg');
+}
+.about_us_text{
+  color: white;
+  margin: 6%;
+  padding: 20px;
+  border: 2px solid;
+  border-color: #888844;
+}
